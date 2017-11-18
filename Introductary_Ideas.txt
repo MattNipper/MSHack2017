@@ -1,0 +1,5 @@
+
+
+Features to be implemented:
+  Color matching
+  weather recommendations
